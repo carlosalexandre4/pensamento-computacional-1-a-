@@ -25,11 +25,11 @@ Para colocar uma imagem;
 - usar src para busca da imagem -> src="NOMEDOARQUIVO.JPG"
 --->
    
-    <h2>SUBTÍTULO _____agende seu horario _____________________</h2>
+    <h2>agende seu horari</h2>
     
     <p>PRIMEIRO PARÁAGRAFO</p>
 
-    <p> Nossa missão é: " ______deixar vc na regua _____________________________________________-" </p>
+    <p> Nossa missão é: "deixar vc na regua" </p>
 
      <p>TERCEIRO PARÁGRAFO .</p>
     
