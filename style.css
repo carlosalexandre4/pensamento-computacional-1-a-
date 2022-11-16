@@ -1,18 +1,14 @@
 body{
-    text-align: center;
-    background-color: #E1C603;
+    text-align:center;
+    background-color:lightskyblue;
 
 }
-#Id
-<!---
-PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
---->
+#pole
+
 
 {
     width: 100%;
-  <!---
-quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
---->
+  
 }
 
 h1{
